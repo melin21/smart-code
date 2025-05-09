@@ -1,8 +1,8 @@
-# Plantilla de Sitio Web para Abogados
+# Plantilla de Sitio Web para Abogados (Lawyer Website Template)
 
 ## Descripción
 
-This project is a professional and modern website template designed specifically for lawyers and law firms. It provides a clean and user-friendly interface to showcase legal services, team members, and contact information.
+Este proyecto es una plantilla de sitio web profesional y moderna diseñada específicamente para abogados y bufetes de abogados. Proporciona una interfaz limpia y fácil de usar para mostrar servicios legales, miembros del equipo e información de contacto.
 
 ## Features
 
@@ -14,13 +14,13 @@ This project is a professional and modern website template designed specifically
 
 ## Technologies Used
 
-* HTML5
-* CSS3 (including Bootstrap 4)
-* JavaScript
-* SASS
+* HTML5 (Lenguaje de Marcado de Hipertexto 5)
+* CSS3 (Hojas de Estilo en Cascada 3, incluyendo Bootstrap 4)
+* JavaScript (Lenguaje de Programación para la Web)
+* SASS (Syntactically Awesome Style Sheets - Preprocesador CSS)
 * Owl Carousel (para testimonios/carousels)
-* Tempus Dominus (for date/time pickers, although its usage might be minimal in this template)
-* Waypoints (para efectos de desplazamiento)
+* Tempus Dominus (para selectores de fecha/hora, aunque su uso podría ser mínimo en esta plantilla)
+* Waypoints (para efectos de desplazamiento y activación de eventos al llegar a ciertos puntos)
 * Easing (para animaciones más suaves)
 
 ## Instalación
